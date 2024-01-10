@@ -64,6 +64,6 @@ The AUV can be programmed to perform various movements based on user-defined beh
 
 ## Contributors
 
-- [Your Name]
+- Tyler Travis
 
 Feel free to contribute to and improve this project. Happy exploring!
